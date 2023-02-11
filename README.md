@@ -18,3 +18,5 @@ def  __social__(self):
 ```
 <p align="center"><img src="https://count.getloli.com/get/@:Wase1337" alt=":Wase1337" /></p>
 
+![github-contribution-grid-snake2](https://user-images.githubusercontent.com/108903025/218284598-9b39c82a-0784-4c5c-b595-190ff8150858.svg)
+
