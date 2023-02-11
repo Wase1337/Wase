@@ -6,7 +6,7 @@
 ┌──(Wase1337@root)-[~/]
 └─$ cat Wase1337.py
 
-class Ayhuuu:
+class Wase1337:
 
 def  __social__(self):
  self.gtb = "https://github.com/Wase1337"
