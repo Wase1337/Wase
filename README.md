@@ -1,18 +1,20 @@
+<div align="center">
 
+</div>
 
-┌──(wase1337@root)-[~/]
-└─$ cat Wase.py
+```python
+┌──(Wase1337@root)-[~/]
+└─$ cat Wase1337.py
 
-class Wase1337:
+class Ayhuuu:
 
 def  __social__(self):
  self.gtb = "https://github.com/Wase1337"
- 
  self.dsc = "Wase#1337"
 
   
- ┌──(wase1337@root)-[~/]
+ ┌──(Wase1337@root)-[~/]
  └─$
+```
+<p align="center"><img src="https://count.getloli.com/get/@:Wase1337" alt=":Wase1337" /></p>
 
-
-![github-contribution-grid-snake2](https://user-images.githubusercontent.com/108903025/218283886-aaadf24b-ad43-4bc9-b4cb-1f1577afcb73.svg)
