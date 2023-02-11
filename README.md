@@ -1,14 +1,17 @@
-┌──(Wase1337@root)-[~/]
+
+
+┌──(wase1337@root)-[~/]
 └─$ cat Wase.py
 
 class Wase1337:
 
 def  __social__(self):
  self.gtb = "https://github.com/Wase1337"
-
+ 
  self.dsc = "Wase#1337"
+
   
- ┌──(Wase1337@root)-[~/]
+ ┌──(wase1337@root)-[~/]
  └─$
 
 
